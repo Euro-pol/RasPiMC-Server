@@ -7,7 +7,7 @@ Then put: `cd RasPiMC-Server/`
 
 # Step 2
 Now you need to install the server running the RasPiMC-install.sh, but before, you need to put: `chmod u+x RasPiMC-install.sh`
-Now you can do: `./RasPiMC-install.sh` and it will start installing the server. When it asks you to install something, you just click "y" and just wait. By default it will build the latest spigot version (Currently 1.15.2). but if you want another version, you can download it from [GetBukkit](https://getbukkit.org/) and just rename it to spigot.jar!
+Now you can do: `./RasPiMC-install.sh` and it will start installing the server. When it asks you to install something, you just click "y" and just wait. By default it will build the latest spigot version (Currently 1.16.5). but if you want another version, you can download it from [GetBukkit](https://getbukkit.org/) and just rename it to spigot.jar!
 
 # Step 3
 Now that you have installed the server, you need to start the server with: `./start.sh`
