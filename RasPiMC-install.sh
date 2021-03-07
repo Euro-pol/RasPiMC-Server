@@ -1,7 +1,8 @@
 #!/bin/bash
 
-echo "Installing Java 8"
-sudo apt install openjdk-8-jdk
+echo "Installing Java 11"
+sudo apt update
+sudo apt install default-jdk
 echo "Done"
 echo "Instaling screen"
 sudo apt install screen
