@@ -3,10 +3,10 @@
 echo "Welcome! This script installs a minecraft server for you"
 echo "Installing Java 11"
 sudo apt update
-sudo apt install default-jdk
+sudo apt install default-jdk -y
 echo "Done"
 echo "Instaling screen"
-sudo apt install screen
+sudo apt install screen -y
 echo "Done"
 echo "Getting buildtools"
 wget https://hub.spigotmc.org/jenkins/job/BuildTools/lastSuccessfulBuild/artifact/target/BuildTools.jar
