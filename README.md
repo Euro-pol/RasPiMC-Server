@@ -19,3 +19,8 @@ You can find **a lot** of plugins on [SpigotMC](https://www.spigotmc.org/resourc
 You may want to install very util plugins like WorldEdit or WorldGuard...
 And this is the end of teh tutorial. If you need any help you can PM me on discord, or report on issues.
 My discord is timof121#1141
+
+
+# Pls Read
+The 1.13+ versions are very badly optimised, so i recommend you
+installing a very fast server software like [Yatopia](https://github.com/YatopiaMC/Yatopia) (a fork of a fork of a fork of a fork of a fork of PaperMC)
