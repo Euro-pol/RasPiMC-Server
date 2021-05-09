@@ -1,3 +1,5 @@
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
+
 # RasPiMC-Server
 Here you will learn how to ***easy*** make a minecraft server on a Raspberry Pi!
 
