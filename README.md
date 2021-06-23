@@ -3,6 +3,8 @@
 # RasPiMC-Server
 Here you will learn how to ***easy*** make a minecraft server on a Raspberry Pi!
 
+# WARNING: currently spigot 1.17 is VERY heavy and uses 3+ gb in IDLE, so i recommend getting a 8gb pi
+
 # Step 1
 Open the terminal emulator and install git with this command: `sudo apt install git`. Then insert this: `git clone https://github.com/timof121/RasPiMC-Server.git`
 Then put: `cd RasPiMC-Server/`
