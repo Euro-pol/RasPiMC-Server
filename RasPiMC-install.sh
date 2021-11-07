@@ -3,7 +3,7 @@
 echo "Welcome! This script installs a minecraft server for you"
 echo "Installing aria2c (a better wget)"
 sudo apt update -y
-sudo apt install aria2c -y
+sudo apt install aria2 -y
 echo "Installing Java 16"
 sudo apt-get install -y wget apt-transport-https gnupg
 wget https://adoptopenjdk.jfrog.io/adoptopenjdk/api/gpg/key/public
